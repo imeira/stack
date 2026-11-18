@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# cd c:\Users\meira\OneDrive\IdeaProjects\stack\bat\
+# cd /c/Users/meira/OneDrive/IdeaProjects/stack/bat
 # code --list-extensions --show-versions
 # ./install-vscode-extensions-v2.sh
 ARQUIVO_LISTA="extensoes-v2.txt"
